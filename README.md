@@ -40,4 +40,4 @@ An interactive, end-to-end Microsoft Excel dashboard designed to analyze transac
 ## 📁 Files Included
 
 * `Amazon Sales_Dataset.xlsx` — Interactive Excel workbook containing source data, calculations, and complete dashboard layout.
-* `dashboard-preview.png` — High-resolution preview image of the Amazon analytics dashboard.
+* `Screenshot 2026-07-24 033222.jpg` — High-resolution preview image of the Amazon analytics dashboard.
