@@ -6,8 +6,7 @@ An interactive, end-to-end Microsoft Excel dashboard designed to analyze transac
 
 ## 📸 Dashboard Preview
 
-![Amazon Sales Dashboard](dashboard-preview.png)
-
+![Amazon Sales Dashboard](Screenshot%202026-07-24%20033222.jpg)
 ---
 
 ## 🔑 Key Performance Indicators (KPIs)
